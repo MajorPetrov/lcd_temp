@@ -12,7 +12,7 @@ Just open the file in your Arduino IDE, then transfer it to your ESP8266
 
 ## Authors
 
-* **Vladimir Razdobreev** - *Myself* - [MajorPetrov](https://github.com/MajorPetrov)
+* *Myself* - [MajorPetrov](https://github.com/MajorPetrov)
 
 ## License
 
